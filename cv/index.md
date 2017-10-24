@@ -14,36 +14,19 @@
 
 ********
 
-## Work Experience
+## Professional Experience
 
-### Florida State University (Tallahassee, FL) <br/> <span style="text-align:right;">November 2015-present</span>
-* Digital Humanities Librarian *(April 2017-present)*
-* Build university-wide programs for training and project development in the digital humanities
-* Consult with faculty on digital humanities project development
-* Lead workshops on digital humanities topics for faculty, graduate students, and undergraduates
-* Integrate with graduate and undergraduate classes to teach digital research skills
-* Digital Humanities Specialist *(February 2016-March 2017)*
-* Consult with project directors on collecting, organizing, documenting, and publishing project outputs
-* Develop and teach digital project incubator for teaching project development skills
-* Develop resource guides for the analysis and visualization of data
-* Create digital humanities project workflows for the libraries
-* Assistant Digital Scholarship Coordinator *(November 2015-January 2016)*
-* Assisted with the processing of submissions to the institutional research repository
-* Drafted University Research Data Management Policy
-* Taught internal workshops for librarians on digital research tools
+### Modeling Quant Analyst Intern, Risk Analysis, Southern Company (Atlanta, GA) <br/> <span style="text-align:right;">May 2017-Aug 2017</span>
+#### Dynamic Tenor Recommendation Project (Matlab, Bloomberg Terminal, Excel, and VBA)
+* Designed a routine to compute multi-year (20/30/40 years) optimal pricing strategies of fixed income instruments using CIR interest rate model and term structure modeling techniques. %Designed/Developed/Established
+* Managed all phases of fixed income project work from building top-down valuation with self-documenting Matlab code, Bloomberg Terminal, Excel and VBA to completion. Analyzed different portfolios along various risk metrics such as IRR, Sharpe Ratio, and P95 tail risk. 
+* Calibrated model, implemented model validation including VaR and benchmark testing. Act as a liaison between Risk Modeling, Treasury, and company executives to recommend bond issuance in accordance with analytical output and risk tolerance.
+* Achieved 10% savings and 16% risk reduction for subsidiaries with the new optimal pricing strategies that lowered interest rates. Closed over $640 million in monthly bond financing.
 
 
 ********
 
-## Teaching
-
-* Digital Humanities II, Humanities Curation <span style="text-align:right;">Fall 2017</span>
-* Text encoding technologies
-* Workflows for constraining, documenting, and transforming text data as a part of the humanities research lifecycle
-
-********
-
-## Projects and Consultations
+## Projects
 
 * Digital Egyptian Gazette, Florida State University *(September 2016-present)*
 * Text encoding consultant
@@ -57,6 +40,16 @@
 * Website developer
 * Just Teach One, American Antiquarian Society *(August 2015-January 2016)*
 * Encoding specialist and project developer
+
+
+********
+
+## Teaching
+
+* Digital Humanities II, Humanities Curation <span style="text-align:right;">Fall 2017</span>
+* Text encoding technologies
+* Workflows for constraining, documenting, and transforming text data as a part of the humanities research lifecycle
+
 
 ********
 
