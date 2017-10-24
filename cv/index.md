@@ -1,6 +1,6 @@
 # Yu-Ying Tzeng
 <br/>heyaying@gmail.com
-<br/>GitHub: https://github.com/yingpublic 
+<br/>GitHub: https://github.com/yingpublic
 
 ********
 
@@ -18,8 +18,8 @@
 
 ### Modeling Quant Analyst Intern, Risk Analysis, Southern Company (Atlanta, GA) <br/> <span style="text-align:right;">May 2017-Aug 2017</span>
 #### Dynamic Tenor Recommendation Project (Matlab, Bloomberg Terminal, Excel, and VBA)
-* Designed a routine to compute multi-year (20/30/40 years) optimal pricing strategies of fixed income instruments using CIR interest rate model and term structure modeling techniques. %Designed/Developed/Established
-* Managed all phases of fixed income project work from building top-down valuation with self-documenting Matlab code, Bloomberg Terminal, Excel and VBA to completion. Analyzed different portfolios along various risk metrics such as IRR, Sharpe Ratio, and P95 tail risk. 
+* Designed a routine to compute multi-year (20/30/40 years) optimal pricing strategies of fixed income instruments using CIR interest rate model and term structure modeling techniques. 
+* Managed all phases of fixed income project work from building top-down valuation with self-documenting Matlab code, Bloomberg Terminal, Excel and VBA to completion. Analyzed different portfolios along various risk metrics such as IRR, Sharpe Ratio, and P95 tail risk.
 * Calibrated model, implemented model validation including VaR and benchmark testing. Act as a liaison between Risk Modeling, Treasury, and company executives to recommend bond issuance in accordance with analytical output and risk tolerance.
 * Achieved 10% savings and 16% risk reduction for subsidiaries with the new optimal pricing strategies that lowered interest rates. Closed over $640 million in monthly bond financing.
 
@@ -64,14 +64,14 @@
 ## Publications
 
 ### Published
-* Stanley, Sarah and Micah Vandegrift (July 2016). “Cross-disciplinarity at the Crossroads.” dh+lib. http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/ 
+* Stanley, Sarah and Micah Vandegrift (July 2016). “Cross-disciplinarity at the Crossroads.” dh+lib. http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/
 
 ### Preprints - Submitted for Publication
-* Moritz, Carolyn, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, Micah Vandegrift. “Decentering and Recentering Digital Scholarship: A Manifesto.” 10.17605/OSF.IO/T7HFU 
+* Moritz, Carolyn, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, Micah Vandegrift. “Decentering and Recentering Digital Scholarship: A Manifesto.” 10.17605/OSF.IO/T7HFU
 
 ********
 
-## Presentations 
+## Presentations
 
 * Broken Citational Networks in the Early Modern Querelle des Femmes (June 2017). Presented at the Society for Textual Scholarship Conference in College Park, MD.
 
@@ -87,8 +87,3 @@
 | XML transformation tools and languages, like XSLT      | Content Management Systems, like Drupal and Wordpress |
 | Schema languages, including RELAX NG and Schematron    | Visualization with tools, like Gephi, QGIS, Tableau   |
 | Knowledge of HTML and CSS                              | Python and R                                          |
-
-
-
-
-
