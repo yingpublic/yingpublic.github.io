@@ -30,54 +30,34 @@
 
 * Digital Egyptian Gazette, Florida State University *(September 2016-present)*
 * Text encoding consultant
-* Linked Women Pedagogues, Florida State University *(March 2016-present)*
-* Project consultant
-* Caribes, Florida State University *(November 2015-present)*
-* Project consultant and metadata creation assistant
-* Burroughs Archive, Florida State University *(November 2015-present)*
-* Encoding specialist and project manager
-* Il Secolo, Florida State University *(November 2015-January 2016)*
-* Website developer
-* Just Teach One, American Antiquarian Society *(August 2015-January 2016)*
-* Encoding specialist and project developer
+
 
 
 ********
 
 ## Teaching
 
-* Digital Humanities II, Humanities Curation <span style="text-align:right;">Fall 2017</span>
-* Text encoding technologies
-* Workflows for constraining, documenting, and transforming text data as a part of the humanities research lifecycle
+* 
 
 
 ********
 
 ## Professional Service
 
-* Member of the Text Encoding Initiative Technical Council (term: January 2017-December 2018)
-* Member of FSU Libraries’ Instruction Balanced Scorecard Initiative
-* Creator, GitHub version of the DLF Project Managers’ Toolkit
+* 
 
 ********
 
 ## Publications
 
-### Published
-* Stanley, Sarah and Micah Vandegrift (July 2016). “Cross-disciplinarity at the Crossroads.” dh+lib. http://acrl.ala.org/dh/2016/07/29/cross-disciplinarity-at-the-crossroads/
 
-### Preprints - Submitted for Publication
-* Moritz, Carolyn, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, Micah Vandegrift. “Decentering and Recentering Digital Scholarship: A Manifesto.” 10.17605/OSF.IO/T7HFU
+* 
 
 ********
 
 ## Presentations
 
-* Broken Citational Networks in the Early Modern Querelle des Femmes (June 2017). Presented at the Society for Textual Scholarship Conference in College Park, MD.
-
-* Vandegrift, Micah, Sarah Stanley, Liz Lorang, et al. (November 2016). Managing Scope and Scale: Applying the Incubator Model to Digital Scholarship. Discussion presented at the Digital Library Federation forum in Milwaukee, WI.
-
-* Hunter, Matthew and Sarah Stanley (June 2016).  Adoption of STEM Praxis in the Digital Humanities. Presented at the Keystone Digital Humanities Conference in Pittsburgh, PA
+* 
 
 *********
 
